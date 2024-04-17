@@ -4,7 +4,7 @@
 
 1. Utilize o PHP versão: PHP 7.4.8.
 2. Utilize Mysql versão: 5.7
-3. Clone ou Fork o seguinte repositório: https://github.com/Lohannn/PHP-Alphacode-CadastrarContato
+3. Clone ou Fork o seguinte repositório: https://github.com/AndreLuisConstantino/Teste-Alphacode
 
 ## Configuração do banco de dados
 

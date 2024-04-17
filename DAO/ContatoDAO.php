@@ -10,7 +10,7 @@ class ContatoDAO
         $host = "localhost";
         $username = "root";
         $port = "3306";
-        $password = "EkkoDeZa1";
+        $password = "admin";
         $database = "db_alphacode_contacts";
 
         $dsn = "mysql:host=$host;port=$port;dbname=$database";
